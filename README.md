@@ -60,8 +60,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:Lorena Avelyn R
+### Register Number:24900089 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
